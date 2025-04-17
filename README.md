@@ -1,1 +1,1 @@
-This is an AI chatbot created in PHP. The AI was created to act like a Therapist, helping you think through your thoughts and emotions. 
+This is code for a website brand that holds an AI. The AI was created to act like a Therapist, helping you think through your thoughts and emotions. The Brand and name we gave to the AI was ELI, Emotional, Listening, and Insight. This was made as a Senior capstone so the AI is not perfected and is only an outline/blueprint of what can be an amazing product when perfected. 
